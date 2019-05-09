@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-amp",
+  "version": "0.0.1",
+  "description": "initial some config for Vue CLI 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reStarting/vue-cli-plugin-amp.git"
+  },
+  "keywords": [
+    "wisedu",
+    "wecamp"
+  ],
+  "author": "Mi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reStarting/vue-cli-plugin-amp/issues"
+  },
+  "homepage": "https://github.com/reStarting/vue-cli-plugin-amp#readme"
+}
