@@ -1,0 +1,10 @@
+/node_modules/
+/dev/
+
+*.swp
+
+.DS_Store
+.idea/
+.vscode/
+npm-debug.log
+yarn-error.log
