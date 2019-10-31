@@ -1,10 +1,7 @@
-# vue-cli-plugin-amp
-Plugin for vue-cli@3.0
+# some preset
 
-## install
+## create
 
 ```js
-vue create my-app
-cd my-app
-vue add amp
+vue create --preset reStarting/wec-vue-preset project_name
 ```
