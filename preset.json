@@ -1,0 +1,29 @@
+{
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "prettier",
+      "lintOn": ["save"]
+    }
+  },
+  "router": true,
+  "routerHistoryMode": false,
+  "vuex": true,
+  "cssPreprocessor": "stylus",
+  "configs": {
+    "vue": {
+      "publicPath": "/",
+      "outputDir": "../webapp",
+      "productionSourceMap": false,
+      "css": {
+        "loaderOptions": {
+          "stylus": {
+            "preferPathResolver": "webpack",
+            "paths": []
+          }
+        }
+      }
+    }
+  }
+}
